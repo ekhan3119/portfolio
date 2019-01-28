@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "main": "index.js",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekhan3119/portfolio.git"
+  },
+  "author": "Eva Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekhan3119/portfolio/issues"
+  },
+  "homepage": "https://github.com/ekhan3119/portfolio#readme"
+}
